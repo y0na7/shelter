@@ -1,0 +1,3130 @@
+[
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc463"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1138908206156,
+          56.1402035054648
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "996d7ff4-154a-11ec-954f-0661a94bd4ab",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelterplads i Stavtrup",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc464"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2589470339579,
+          56.0626469793801
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220a4e5c-ac7c-11ea-80fa-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fløjstrup Strand",
+      "beskrivels": "Fløjstrup strand",
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc465"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2021113413482,
+          56.2020197125691
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "70e29b6c-a819-11eb-96fa-06d09fa510f4",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Mollerup Skov",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc466"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2620486526636,
+          56.0234537966265
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "a683a1f4-789b-4733-9456-5324dab80e82",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Norsminde Motorbådshavn                           ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc467"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2635415784519,
+          56.0228658740385
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "73768d11-06d4-4a30-aead-49f7c113ffce",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Norsminde Lystbådehavn                            ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc468"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2597524932869,
+          56.0225919258808
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "e2aabb0e-6ab4-484d-99af-62664cf28f08",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Norsminde kajakklub                               ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc469"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1309511227733,
+          56.1681800297214
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158a3322-9c0a-11ea-b26a-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Skjoldhøjkilen",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc46a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          9.96761818216928,
+          56.1286025646837
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "c6680178-6166-46f0-ba4c-dc8479a127f0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fugletårn ved Tåstrup Sø                          ",
+      "beskrivels": "<strong>Nyd stien gennem sumpskoven ud til fugletårnet, hvorfra du kan opleve et rigt fugleliv</strong>                                                                                                                                                       ",
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc46b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.3058187109953,
+          56.2533536780254
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "9cb35d33-7d5e-408b-b6c5-23166b1951e1",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelterplads Skødstrup Søndersø                   ",
+      "beskrivels": "Shelterplads med 2 shelters og bålplads                                                                                                                                                                                                                       ",
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc46c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2483338161142,
+          56.0862199537958
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158644e2-9c0a-11ea-b254-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads ved Moesgård Strand - Sdr. Strandmark",
+      "beskrivels": null,
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc46d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.224552929793,
+          56.1213380129748
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158693e8-9c0a-11ea-b256-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads ved Ballehage",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc46e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2483338161142,
+          56.0862199537958
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158644e2-9c0a-11ea-b254-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads ved Moesgård Strand - Sdr. Strandmark",
+      "beskrivels": null,
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc46f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.224552929793,
+          56.1213380129748
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158693e8-9c0a-11ea-b256-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads ved Ballehage",
+      "beskrivels": null,
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc470"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2673640974013,
+          56.0519769513015
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15838a7c-9c0a-11ea-b248-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter ved Mariendal Strand",
+      "beskrivels": null,
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc471"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1832491190344,
+          56.1868089835271
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157e24c4-9c0a-11ea-b230-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter på Vestereng",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc472"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.220276878772,
+          56.2136039921625
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1581c962-9c0a-11ea-b242-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelterplads ved Egå Engsø¸ - fem stk.",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc473"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2301761302999,
+          56.2392579795894
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15833b4e-9c0a-11ea-b246-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Madpakkehus i Æblehaven",
+      "beskrivels": null,
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc474"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2302168695005,
+          56.1135680376493
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157ec41a-9c0a-11ea-b234-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Dagshelter i Hørhaven",
+      "beskrivels": null,
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc475"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.227179945693,
+          56.114670007543
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157bed08-9c0a-11ea-b226-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Hørhaven i skoven",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc476"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.203216180214,
+          56.1373139478907
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1584f100-9c0a-11ea-b24c-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Havreballe Skov",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc477"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2444149091573,
+          56.0883729513367
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157d058a-9c0a-11ea-b22a-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter ved Moesgård Strand",
+      "beskrivels": null,
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc478"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2336338988802,
+          56.2333640243483
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1585431c-9c0a-11ea-b24e-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålhus i Lystrup Sønderskov",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc479"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2294949927686,
+          56.1128799746459
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157dca1a-9c0a-11ea-b22e-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Hørhaven på bakken",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc47a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1156518853714,
+          56.1000320235091
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15859146-9c0a-11ea-b250-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Tranbjerg Skov",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc47b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2476941660947,
+          56.0931360303849
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1585f47e-9c0a-11ea-b252-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads ved Moesgård Strand - Ndr. Strandmark",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc47c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2391549371805,
+          56.0953700414748
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158c4130-9c0a-11ea-b276-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålhytte i Skåde Skov",
+      "beskrivels": null,
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc47d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1422530421788,
+          56.1504079630261
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157a05a6-9c0a-11ea-b224-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Gjellerup Skov",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc47e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1694600340565,
+          56.2354309658486
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157c61a2-9c0a-11ea-b228-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Lisbjerg gammel skov",
+      "beskrivels": null,
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc47f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1975061753891,
+          56.0665749345383
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157f1c30-9c0a-11ea-b236-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Vilhelmsborg Skov",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc480"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2277139371157,
+          56.0974080157968
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157e74b0-9c0a-11ea-b232-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Moesgård Skov",
+      "beskrivels": null,
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc481"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1272049901218,
+          56.1194079820532
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c24e118-a0c2-11ea-b0f7-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnesspark ved Bøgeskov Idrætsanlæg",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc482"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2817199807568,
+          56.2018139702381
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c256e80-a0c2-11ea-b0f9-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnesspark ved Åkrogen",
+      "beskrivels": null,
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc483"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1646889166585,
+          56.1520189874351
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c2159f8-a0c2-11ea-b0e1-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Åby Park",
+      "beskrivels": null,
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc484"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0139659792115,
+          56.1334079576077
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c21a296-a0c2-11ea-b0e3-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads i Gl. Harlev",
+      "beskrivels": null,
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc485"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2211581573093,
+          56.1700159768297
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1a084c-a0c2-11ea-b0bf-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Riis Skov",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc486"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1731038946315,
+          56.1048409545213
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c21fd36-a0c2-11ea-b0e5-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads i Håndværkerparken",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc487"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2109549794301,
+          56.1388299802944
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1b58c8-a0c2-11ea-b0c1-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Tangkrogen",
+      "beskrivels": null,
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc488"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2222400108273,
+          56.1045269508307
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c224c50-a0c2-11ea-b0e7-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads i Lerdalen",
+      "beskrivels": null,
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc489"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.208920005423,
+          56.1927049850758
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c229476-a0c2-11ea-b0e9-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Rolf Haugstrups Plads",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc48a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2038551476776,
+          56.1290519993549
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1bcbfa-a0c2-11ea-b0c3-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Mindeparken",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc48b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1516151235112,
+          56.2509530381011
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c22dc56-a0c2-11ea-b0eb-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads i Trige",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc48c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1315041365405,
+          56.1679779599322
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1c296a-a0c2-11ea-b0c5-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Skjoldhøjkilen",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc48d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0842411945098,
+          56.0466100002629
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c2325b2-a0c2-11ea-b0ed-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads ved Solbjerg Skov",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc48e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1900070649896,
+          56.1473089679248
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1cebe8-a0c2-11ea-b0c7-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Frederiksbjerg Bypark",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc48f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2892899915602,
+          56.2126560210532
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c2382dc-a0c2-11ea-b0ef-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads ved Egå Marina",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc490"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.22752805596,
+          56.111279053545
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1d48a4-a0c2-11ea-b0c9-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Gåsehaven",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc491"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.080191093471,
+          56.0385410073299
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c23e2c2-a0c2-11ea-b0f1-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads ved Lundbjergvang i Solbjerg",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc492"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0277291302258,
+          56.2104809826647
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c242962-a0c2-11ea-b0f3-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads ved Sabro idrætsanlæg",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc493"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          9.99027399306661,
+          56.1456399661628
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1dd2a6-a0c2-11ea-b0cb-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Harlev Bypark",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc494"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2614809601214,
+          56.0233979764235
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c248452-a0c2-11ea-b0f5-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnesspark ved Norsminde Havn",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc495"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.117077090431,
+          56.1487229865637
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1e2d8c-a0c2-11ea-b0cd-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Brabrandstien",
+      "beskrivels": null,
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc496"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1970421556477,
+          56.0481300079892
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1e893a-a0c2-11ea-b0cf-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Egelund Idrætsanlæg",
+      "beskrivels": null,
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc497"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1932189112236,
+          56.1125739277396
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1efc1c-a0c2-11ea-b0d1-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Lyseng Idrætsanlæg",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc498"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1292760776396,
+          56.1194319172502
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1f419a-a0c2-11ea-b0d3-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Bøgelund Idrætsanlæg",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc499"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2490401044581,
+          56.2446579510025
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1f8704-a0c2-11ea-b0d5-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Blåbærhaven",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc49a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1706209836125,
+          56.1305259575945
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c1fe8a2-a0c2-11ea-b0d7-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Bygvangs Alle",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc49b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1956978730905,
+          56.1342890098882
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c202f38-a0c2-11ea-b0d9-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads i Havreballe Skov",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc49c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1430337762823,
+          56.0886169990426
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c207c0e-a0c2-11ea-b0db-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Laurbærparken i Tranbjerg",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc49d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1188411187546,
+          56.1394860391647
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c20c4a2-a0c2-11ea-b0dd-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Stautrup Skov",
+      "beskrivels": null,
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc49e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1483121375799,
+          56.125740977325
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "4c210ea8-a0c2-11ea-b0df-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fitnessplads Vårkærparken",
+      "beskrivels": null,
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc49f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.133973025078,
+          56.1692040475574
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15807dbe-9c0a-11ea-b23a-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads Alfa i Skjoldhøjkilen",
+      "beskrivels": "",
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a0"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1249920294745,
+          56.1699939200372
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1580cab2-9c0a-11ea-b23c-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads Gamma i Skjoldhøjkilen",
+      "beskrivels": null,
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a1"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2030631451557,
+          56.1370110715311
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158ba04a-9c0a-11ea-b272-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålhytte i Havreballe Skov",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a2"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2065879051222,
+          56.1529686001867
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22041636-ac7c-11ea-80d0-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Amaliegade 27",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a3"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2132608579205,
+          56.1565801887913
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22056356-ac7c-11ea-80d4-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Skibbrogade 1",
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a4"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2067385353296,
+          56.1553770821887
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2205adde-ac7c-11ea-80d6-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Telefontorvet 5",
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a5"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2000512899901,
+          56.1512974158673
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2206078e-ac7c-11ea-80d8-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Frederiks Alle 20A",
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a6"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1992600998041,
+          56.1567976916114
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22069a14-ac7c-11ea-80dc-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Vester Alle 18",
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a7"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2072896917043,
+          56.1395168048463
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2206d150-ac7c-11ea-80de-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Fintenborg Plads",
+      "beskrivels": "Strandvejen 17",
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a8"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.198774350941,
+          56.1449506469465
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22071e76-ac7c-11ea-80e0-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Ingerslevs Boulevard 2G",
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4a9"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2184201813371,
+          56.1764277528191
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2207583c-ac7c-11ea-80e2-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Marienlunds Alle 25",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4aa"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1993202916987,
+          56.1582438315547
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22079284-ac7c-11ea-80e4-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Vesterbro Torv 13A",
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ab"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.190173503342,
+          56.1436499466798
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2207cf88-ac7c-11ea-80e6-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Harald Jensens Plads 8",
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ac"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1693271043838,
+          56.1555660231437
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22080dae-ac7c-11ea-80e8-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Silkeborgvej 224",
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ad"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2700099821534,
+          56.0384650371742
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2209278e-ac7c-11ea-80f0-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Ajstrup Strand Nord",
+      "beskrivels": "Ajstrup Strand, Nord",
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ae"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.269387941257,
+          56.0362850296534
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220963f2-ac7c-11ea-80f2-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Ajstrup Strand Syd",
+      "beskrivels": "Ajstrup Strand, Syd",
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4af"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2652959412815,
+          56.0286920149849
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220a9920-ac7c-11ea-80fc-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Strandbovej, Norsminde Strand",
+      "beskrivels": "Strandbovej",
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b0"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2476129431364,
+          56.1909379693283
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220bc5b6-ac7c-11ea-8104-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bellevue Strand",
+      "beskrivels": "Fortevej 113",
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b1"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2138730333734,
+          56.1279220161524
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220c1cc8-ac7c-11ea-8106-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Toilet ved Hotel Marselis",
+      "beskrivels": "Strandvejen 23",
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b2"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1722670199982,
+          56.2269280268317
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220c5652-ac7c-11ea-8108-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Ved shelterplads i Lisbjerg ny skov",
+      "beskrivels": "Elevvej 23",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b3"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1855500651936,
+          56.1629670428822
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220cdac8-ac7c-11ea-810c-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Botanisk Have - Amfiscenen",
+      "beskrivels": "Eugen Warmings Vej 12",
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b4"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2072969568881,
+          56.1393209797572
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220d13c6-ac7c-11ea-810e-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Tangkrogen",
+      "beskrivels": "Strandvejen 19",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b5"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2031489799768,
+          56.1302379860513
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220d4a80-ac7c-11ea-8110-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Mindeparken",
+      "beskrivels": "Carl Nielsens Vej 15",
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b6"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2112860480969,
+          56.1287979839659
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220d8400-ac7c-11ea-8112-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Mindeparken v. Oddervej",
+      "beskrivels": "Oddervej 8",
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b7"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2058920651712,
+          56.1653269951779
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220dbc9a-ac7c-11ea-8114-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Vennelystparken",
+      "beskrivels": "Vennelyst Boulevard 7",
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b8"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1937009400838,
+          56.1583770191905
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220df6a6-ac7c-11ea-8116-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Botanisk have, ved Den Gamle By",
+      "beskrivels": "Vesterbrogade 38A",
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4b9"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2074909803927,
+          56.1458360123904
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220eba32-ac7c-11ea-811c-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Skanseparken",
+      "beskrivels": "Heibergsgade 31",
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ba"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.178624956703,
+          56.1599470462325
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220f33a4-ac7c-11ea-8120-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Toilet i Vestre Store Kapel",
+      "beskrivels": "Viborgvej 47A",
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4bb"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2309349992401,
+          56.1765669963834
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220fbcf2-ac7c-11ea-8124-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Den Permanente",
+      "beskrivels": "Salonvejen 1",
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4bc"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2056683318356,
+          56.1586944950674
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220ff37a-ac7c-11ea-8126-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Klostertorvet",
+      "beskrivels": "Klostergade 52",
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4bd"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2473619519284,
+          56.0868280071144
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220ae7a4-ac7c-11ea-80fe-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Moesgård Strand",
+      "beskrivels": "Moesgård Strand, Strandskovvej 30",
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4be"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2829269759843,
+          56.2044999713844
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220b3e02-ac7c-11ea-8100-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Åkrogen Nord",
+      "beskrivels": "Åkrogs Strandvej 65",
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4bf"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2821440520045,
+          56.2027359710326
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220b8cc2-ac7c-11ea-8102-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Åkrogen ved bussens endestation",
+      "beskrivels": "Åkrogs Strandvej 46",
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c0"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2201170250764,
+          56.2132679661498
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220ca472-ac7c-11ea-810a-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Ved shelterplads Egå Engsø",
+      "beskrivels": "Viengevej 7A",
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c1"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0882939792443,
+          56.1475330214322
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220e330a-ac7c-11ea-8118-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Årslev Engsø",
+      "beskrivels": "Søskovvej 4",
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c2"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1997489374365,
+          56.155635046621
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220e8008-ac7c-11ea-811a-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Mølleparken",
+      "beskrivels": "Møllegade 1",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c3"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2150989701223,
+          56.1676500147255
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220ef862-ac7c-11ea-811e-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Toilet i Nordre Kapel",
+      "beskrivels": "Kirkegårdsvej 26",
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c4"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2200389470303,
+          56.1203920452908
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220f81e2-ac7c-11ea-8122-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Krudthuset i Dyrehaven",
+      "beskrivels": "Ørneredevej 6",
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c5"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2049728415986,
+          56.1508933245327
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220516da-ac7c-11ea-80d2-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Banegårdspladsen 4A",
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c6"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2277074507787,
+          56.1676183188484
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220656da-ac7c-11ea-80da-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Jette Tikjøbs Plads 13",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c7"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2060707726018,
+          56.1564959551619
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22084a12-ac7c-11ea-80ea-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": null,
+      "beskrivels": "Åboulevarden 43A",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c8"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.23680804733,
+          56.1012269967889
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220886f8-ac7c-11ea-80ec-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Ørnereden",
+      "beskrivels": "Ørneredevej 55",
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4c9"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2658959428027,
+          56.0532440118963
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2208d8e2-ac7c-11ea-80ee-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Mariendal Strand",
+      "beskrivels": "Ørnevænget",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ca"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2270439525298,
+          56.1130179933929
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "22099e6c-ac7c-11ea-80f4-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Hørhaven",
+      "beskrivels": "Ørneredevej 23",
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4cb"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2448739568329,
+          56.0885569832609
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2209da26-ac7c-11ea-80f6-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Moesgård Strand, H/D åbent sommer 1/5 - 1/10",
+      "beskrivels": "Moesgård Strand, Strandskovvej 10",
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4cc"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2237689760794,
+          56.1209019865908
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "220a1568-ac7c-11ea-80f8-06f2586f84aa",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Ballehage",
+      "beskrivels": "Ballehage, Ørneredevej 7A",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4cd"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2596320315276,
+          56.0591139216058
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1586e7ee-9c0a-11ea-b258-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Fløjstrup Skov - Syd",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ce"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2663910771665,
+          56.0532499819422
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15873c62-9c0a-11ea-b25a-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads på Mariendal Strand",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4cf"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2235341061932,
+          56.1768440349201
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1587d6cc-9c0a-11ea-b25c-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads Warming på Tumlepladsen i Riis Skov",
+      "beskrivels": null,
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d0"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2360038000048,
+          56.1090689698444
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15883964-9c0a-11ea-b25e-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads på stranden ved Blommehaven Camping",
+      "beskrivels": null,
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d1"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2529058669213,
+          56.0809650119935
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15888ef0-9c0a-11ea-b260-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Fløjstrup Skov - Nord",
+      "beskrivels": null,
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d2"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2240111448585,
+          56.1769579865189
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1588e1b6-9c0a-11ea-b262-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålhus på Tumlepladsen i Riis Skov",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d3"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2230888269791,
+          56.1765800100935
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "15893206-9c0a-11ea-b264-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads Daus på Tumlepladsen i Riis Skov",
+      "beskrivels": null,
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d4"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2593249473263,
+          56.0609710513636
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1589810c-9c0a-11ea-b266-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads ved Digevejen i Fløjstrup Skov",
+      "beskrivels": null,
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d5"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2925868827889,
+          56.2584939831465
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1589d1ca-9c0a-11ea-b268-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Skødstrup Skov",
+      "beskrivels": null,
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d6"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1680768234992,
+          56.1642250006955
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158a8200-9c0a-11ea-b26c-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads i Præstevangen",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d7"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2365550588284,
+          56.101080938996
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158ad264-9c0a-11ea-b26e-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads ved Ørnereden",
+      "beskrivels": null,
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d8"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1342959124348,
+          56.0811179811877
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158b5130-9c0a-11ea-b270-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålhytte i Østerby Skov, Tranbjerg",
+      "beskrivels": null,
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4d9"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1711688893374,
+          56.2270790189935
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "158bede8-9c0a-11ea-b274-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Bålplads Kimbrerdalen i Lisbjerg",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4da"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1618161804432,
+          56.1841560048164
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157f69ba-9c0a-11ea-b238-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Brendstrup Skov",
+      "beskrivels": null,
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4db"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1717740730878,
+          56.2268179774504
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1582ea72-9c0a-11ea-b244-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelterplads i Lisbjerg ny skov - fem stk.",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4dc"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1141968502786,
+          56.0959056907147
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "b28c6e2c-5575-11eb-8f02-06d09fa510f4",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelterplads i Tranbjerg Skov",
+      "beskrivels": null,
+      "antal_pl": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4dd"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1978006841125,
+          56.0647618043221
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2e2afdcc-b9fa-4c53-b845-39f2c6d43439",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Vilhelmsborg shelter                              ",
+      "beskrivels": "Inde i skoven lidt fra stien.                                                                                                                                                                                                                                 ",
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4de"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0209340226472,
+          56.1283319644944
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "1584895e-9c0a-11ea-b24a-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Åbo Skov, 2 shelters",
+      "beskrivels": null,
+      "antal_pl": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4df"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2027370112491,
+          56.206293019122
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "157d6d86-9c0a-11ea-b22c-062b96cbb5a0",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Shelter i Mollerup Skov",
+      "beskrivels": null,
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e0"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2956714384124,
+          56.2214055477808
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "9730bc1e-db80-4318-af77-5aad0b79f3d6",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Egå og Skæring, Skæring Skole          ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e1"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2108497194722,
+          56.1562309531018
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "0adcaf02-855d-432c-b46d-faa67ddf85fb",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Aarhus Midtby                          ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e2"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2841913861593,
+          56.2118478876341
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "41a6da65-4e1d-47f3-8ae7-8fbd971d664a",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Egå Marina og Sølystskolen             ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e3"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1926747157609,
+          56.1605625561614
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "aeb443ea-fbee-4d36-9704-1eada4d1fe34",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Botanisk Have i Århus                  ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e4"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2275443473276,
+          56.1173027068939
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "2ff0ee7d-07a7-4d29-9b48-bb4dbd2a744f",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Hørhaven, Århus                        ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e5"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2190134364682,
+          56.1765926501708
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "e3abf54c-f7b0-46fa-93f8-95be96fb4f45",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Risskov, Århus                         ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e6"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1113694368313,
+          56.1730516346287
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "d0e3920e-f077-43d1-a52a-40fa36fc0b93",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Hasle Bakker, Århus                    ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e7"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2366889043199,
+          56.101531660979
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "6ed016ac-c3f3-4e65-8751-008313c4987f",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Ørnereden, Århus                       ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e8"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1943844847088,
+          56.1335680743563
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "75ddeb84-e3ae-47f0-90e6-712933bc7990",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Mindeparken, Århus                     ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4e9"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2045582361749,
+          56.1504842236292
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "dc4aa8f2-f9ee-4965-aaee-f2f90f28f1bc",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Find vej i Aarhus Midtby - Lydglimt fra besættelse",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "antal_pl": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "625fc7b351f6fa2b5bebc4ea"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0285864069819,
+          56.2286552321543
+        ]
+      ]
+    },
+    "properties": {
+      "objekt_id": "5df0fd48-e32f-415b-879b-6ace7ae47ab7",
+      "cvr_navn": "Aarhus Kommune",
+      "kommunekode": 751,
+      "navn": "Parkering nær Nilles Kro                          ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "antal_pl": 9
+    }
+  }
+]

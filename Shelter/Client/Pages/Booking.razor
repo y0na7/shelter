@@ -1,0 +1,32 @@
+﻿@using Shelter.Client.Services;
+@using Shelter.Shared.Models;
+@page "/Booking"
+
+<PageTitle>ShelterBooking</PageTitle>
+
+<h1>Book her</h1>
+
+<div>
+        <ul>
+            @foreach (var item in Items)
+            {
+            <li>
+                @item.Navn @item.Beskrivelse @item.AntalPladser
+            </li>
+        }
+        </ul>
+</div>
+
+@code {
+    private List<ShelterItem> Items = new List<ShelterItem>();
+
+    [Inject]
+    public IShelterService Service { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+          Items = (await Service.GetAllItems()).ToList();
+
+    }
+
+}
