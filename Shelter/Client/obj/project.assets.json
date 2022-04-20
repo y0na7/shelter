@@ -1572,19 +1572,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhrau\\.nuget\\packages\\": {}
+    "C:\\Users\\97mat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Client\\Shelter.Client.csproj",
+      "projectUniqueName": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Client\\Shelter.Client.csproj",
       "projectName": "Shelter.Client",
-      "projectPath": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Client\\Shelter.Client.csproj",
-      "packagesPath": "C:\\Users\\jhrau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Client\\obj\\",
+      "projectPath": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Client\\Shelter.Client.csproj",
+      "packagesPath": "C:\\Users\\97mat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhrau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\97mat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1598,8 +1598,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Shared\\Shelter.Shared.csproj": {
-              "projectPath": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Shared\\Shelter.Shared.csproj"
+            "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Shared\\Shelter.Shared.csproj": {
+              "projectPath": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Shared\\Shelter.Shared.csproj"
             }
           }
         }
@@ -1637,7 +1637,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[6.0.1, 6.0.1]"
+            "version": "[6.0.2, 6.0.2]"
           }
         ],
         "frameworkReferences": {
@@ -1645,7 +1645,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

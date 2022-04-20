@@ -1106,19 +1106,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhrau\\.nuget\\packages\\": {}
+    "C:\\Users\\97mat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Server\\Shelter.Server.csproj",
+      "projectUniqueName": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Server\\Shelter.Server.csproj",
       "projectName": "Shelter.Server",
-      "projectPath": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Server\\Shelter.Server.csproj",
-      "packagesPath": "C:\\Users\\jhrau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Server\\obj\\",
+      "projectPath": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Server\\Shelter.Server.csproj",
+      "packagesPath": "C:\\Users\\97mat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhrau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\97mat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1132,11 +1132,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Client\\Shelter.Client.csproj": {
-              "projectPath": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Client\\Shelter.Client.csproj"
+            "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Client\\Shelter.Client.csproj": {
+              "projectPath": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Client\\Shelter.Client.csproj"
             },
-            "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Shared\\Shelter.Shared.csproj": {
-              "projectPath": "C:\\Users\\jhrau\\Desktop\\C#\\Shelter\\Shelter\\Shared\\Shelter.Shared.csproj"
+            "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Shared\\Shelter.Shared.csproj": {
+              "projectPath": "C:\\Users\\97mat\\Source\\Repos\\shelter\\Shelter\\Shared\\Shelter.Shared.csproj"
             }
           }
         }
@@ -1174,7 +1174,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
