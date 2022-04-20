@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d0d604b-6cc0-4166-845e-02158e398991": {
+      "ProjectGuid": "5d0d604b-6cc0-4166-845e-02158e398991",
+      "DisplayName": "Shelter.Client",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
