@@ -6,7 +6,7 @@
 
 <h1>Book her</h1>
 
-<div>
+<!--<div>
         <ul>
             @foreach (var item in Items)
             {
@@ -14,9 +14,24 @@
                 @item.property.Navn
                 @item.property.Beskrivelse 
                 @item.property.AntalPladser
+
             </li>
         }
         </ul>
+</div>
+-->
+<div>
+    <form action="/Booking">
+  <label for="Items">Vælg et Shelter:</label>
+  <select name="shelters" id="items">
+      @foreach(var item in Items)
+      {
+    <option value="@item.property.Navn">@item.property.Navn</option>
+      }
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
 </div>
 
 @code {
