@@ -7,11 +7,11 @@ namespace Shelter.Client.Services
     {
         Task<ShelterItem[]?> GetAllItems();
 
-        Task<ShelterItem?> GetItem(int id);
+       // Task<ShelterItem?> GetItem(int id);
 
         Task<int> AddItem(ShelterItem item);
 
-        bool DeleteItem(ShelterItem item);
+       // Task<int> DeleteItem(int id);
         void updateItem(ShelterItem item);
     }
 }

@@ -13,27 +13,28 @@ namespace Shelter.Client.Services
         }
         public async Task<ShelterItem[]?> GetAllItems()
         {
-            var result = await httpClient.GetFromJsonAsync<ShelterItem[]>("sample-data/shelterdata.json");
+            var result = await httpClient.GetFromJsonAsync<ShelterItem[]>("api/shelter");
             return result;
         }
         public async Task<int> AddItem(ShelterItem item)
-
         {
-
-            throw new NotImplementedException();
+            var response = await httpClient.PostAsJsonAsync("api/shelter", item);
+            var responseStatusCode = response.StatusCode;
+            return (int)responseStatusCode;
         }
 
-        public async Task<ShelterItem> GetItem(int id)
+        /*public async Task<ShelterItem> GetItem(int id)
         {
-            throw new NotImplementedException();
-        }
+            var result = await httpClient.GetFromJsonAsync<ShelterItem>("api/shelter/" + id);
+            return result;
+        }*/
 
         public void UpdateItem(ShelterItem item)
         {
             throw new NotImplementedException();
         }
 
-        public async Task<int> DeleteItem(ShelterItem item)
+        /*public async Task<int> DeleteItem(ShelterItem item)
         {
             throw new NotImplementedException();
         }
@@ -41,7 +42,7 @@ namespace Shelter.Client.Services
         bool IShelterService.DeleteItem(ShelterItem item)
         {
             throw new NotImplementedException();
-        }
+        }*/
 
         public void updateItem(ShelterItem item)
         {

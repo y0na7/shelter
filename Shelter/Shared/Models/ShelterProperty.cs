@@ -18,5 +18,11 @@ namespace Shelter.Shared.Models
         public string? Beskrivelse { get; set; }
         [BsonElement("antal_pl")]
         public int AntalPladser { get; set; }
+        [BsonElement("objekt_id")]
+        public string id { get; set; }
+
+        public ShelterProperty()
+        {
+        }   
     }
 }
