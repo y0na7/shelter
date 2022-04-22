@@ -20,16 +20,20 @@
         </ul>
 </div>
 -->
+<!--DROPDOWNMENU UNDER-->
 <div>
     <form action="/Booking">
   <label for="Items">Vælg et Shelter:</label>
   <select name="shelters" id="items" @onchange="FindShelter">
       @foreach(var item in Items)
             {
-                CurrentDropDown = @item.property.Navn;
+                
+                //CurrentDropDown = @item.property.Navn;
                 <option value="@item.property.Navn">@item.property.Navn</option>
       }
   </select>
+  <h5>selected shelter: @selectedString</h5>
+
   <br><br>
   
 <div class="wrapper">
@@ -97,15 +101,16 @@
     }
     private ShelterItem shelterItemcurrent = new ShelterItem();
     private string CurrentDropDown;
+    public string selectedString = "";
 
-    public void FindShelter()
+    public void FindShelter(ChangeEventArgs e)
     {Console.WriteLine(TheBooking.PersonNavn);
         Console.WriteLine(TheBooking.Shelternavn);
         Console.WriteLine(TheBooking.Dato1);
         Console.WriteLine(TheBooking.Dato2);
-        TheBooking.Shelternavn = CurrentDropDown;
+        TheBooking.Shelternavn = e.Value.ToString();
 
-        
+        selectedString = e.Value.ToString();
     }
 
 }
