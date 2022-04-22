@@ -18,6 +18,8 @@ namespace Shelter.Shared.Models
         [BsonElement("properties")]
         public ShelterProperty property { get; set; }
 
+        [BsonElement]("name")]
+        public string? Name { get; set; }
         public BookingItem()
 
         {

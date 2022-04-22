@@ -30,24 +30,71 @@
       }
   </select>
   <br><br>
+  <div>
+    <form action="/Booking">
+  <label for="Items">Vælg et Shelter:</label>
+  <select name="shelters" id="items">
+      @foreach(var item in Items)
+      {
+    <option value="@item.property.Navn">@item.property.Navn</option>
+      }
+  </select>
+  <br><br>
+  
+</form>
+</div>
+<div class="wrapper">
+  <section class="createevent">
+    <EditForm EditContext="@_editContext" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
+      <DataAnnotationsValidator />
+      <div class="form-group">
+        <p>
+          <label>
+            Startdato:
+          </label>
+          <input id="txtDate" type="date" value=""<?php echo date('Y-m-j'); ?>
+          <ValidationMessage For="@(() => _timeSample.date1)" />
+          <label>
+            Slutdato:
+          </label>
+          <input id="txtDate" type="date" value=""<?php echo date('Y-m-j'); ?>
+          <ValidationMessage For="@(() => _timeSample.date2)" />
+        </p>
+      </div>
+    </EditForm>
+  </section>
+</div>
+ <br><br>
+
   <input type="submit" value="Submit">
 </form>
 </div>
+<div>
+    <table>
+    <tr><td>Text to Save:</td></tr>
+    <tr>
+        <td colspan="3">
+            <textarea id="inputTextToSave" cols="80" rows="25"></textarea>
+        </td>
+    </tr>
+</table>
+</div>
 
-<!--<div>
+<div>
 <label>
     Name:
-    <input @bind="name"/>
+    <input @bind="TheBooking.Name"/>
 </label>
 <button class="btn btn-primary" @onclick="ShelterBookingHandler"></button>
-</div>-->
+</div>
 @code {
 
 
     private List<ShelterItem> Items = new List<ShelterItem>();
-    //private List<BookingItem> Bookings = new List<BookingItem>();
+    private BookingItem TheBooking = new BookingItem();
 
     [Inject]
+    //inject bookingservice
     public IShelterService Service { get; set; }
 
     protected override async Task OnInitializedAsync()
@@ -55,5 +102,36 @@
           Items = (await Service.GetAllItems()).ToList();
 
     }
-   
+     private async Task ShelterBookingHandler()
+    {
+        //AddItem
+        Items = (await Service.GetAllItems()).ToList();
+        Console.WriteLine("Shopping item added");
+    }
+    public class TimeSample
+  {
+    public DateTime date1 { get; set; }
+    public DateTime date2 { get; set; }
+    public DateTime time { get; set; }
+    public string text { get; set; }
+  };
+
+  private EditContext _editContext;
+  private TimeSample _timeSample = new TimeSample();
+
+  protected override void OnInitialized()
+  {
+    _editContext = new EditContext(_timeSample);
+  }
+
+  private void HandleValidSubmit()
+  {
+  }
+
+  protected void HandleInvalidSubmit()
+  {
+  }
+
+}
+
 }
