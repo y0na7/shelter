@@ -16,9 +16,9 @@ namespace Shelter.Server.Models
 
             // private static readonly List<ShoppingItem> Items;
             ShelterDBContext db = new ShelterDBContext();
-            public void AddItem(ShelterItem item)
+            public void AddItem(BookingItem TheBooking)
             {
-                db.Items.InsertOne(item);
+                db.Booking.InsertOne(TheBooking);
             }
 
            public bool DeleteItem(int id)
@@ -57,17 +57,21 @@ namespace Shelter.Server.Models
             {
                 return db.Items.Find(_ => true).ToList();
             }
+        public List<BookingItem> GetAllItems2()
+        {
+            return db.Booking.Find(_ => true).ToList();
+        }
 
 
-        
 
-          /*  public static void InsertTestData()
-            {
-                Items.Add(new ShelterItem(id: 1, "Shelter1", 5));
-                Items.Add(new ShelterItem(id: 2, "Shelter2", 10, true));
 
-            }*/
+        /*  public static void InsertTestData()
+          {
+              Items.Add(new ShelterItem(id: 1, "Shelter1", 5));
+              Items.Add(new ShelterItem(id: 2, "Shelter2", 10, true));
 
-       
+          }*/
+
+
     }
 }

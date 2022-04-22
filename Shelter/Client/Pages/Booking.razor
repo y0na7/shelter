@@ -30,19 +30,7 @@
       }
   </select>
   <br><br>
-  <div>
-    <form action="/Booking">
-  <label for="Items">Vælg et Shelter:</label>
-  <select name="shelters" id="items">
-      @foreach(var item in Items)
-      {
-    <option value="@item.property.Navn">@item.property.Navn</option>
-      }
-  </select>
-  <br><br>
   
-</form>
-</div>
 <div class="wrapper">
   <section class="createevent">
     <EditForm EditContext="@_editContext" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
@@ -69,16 +57,7 @@
   <input type="submit" value="Submit">
 </form>
 </div>
-<div>
-    <table>
-    <tr><td>Text to Save:</td></tr>
-    <tr>
-        <td colspan="3">
-            <textarea id="inputTextToSave" cols="80" rows="25"></textarea>
-        </td>
-    </tr>
-</table>
-</div>
+
 
 <div>
 <label>
@@ -94,19 +73,22 @@
     private BookingItem TheBooking = new BookingItem();
 
     [Inject]
-    //inject bookingservice
+    //inject shelterservice
     public IShelterService Service { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
-          Items = (await Service.GetAllItems()).ToList();
+        Items = (await Service.GetAllItems()).ToList();
 
     }
-     private async Task ShelterBookingHandler()
+    [Inject]
+    //inject bookingservice
+    public IBookingService Service2 { get; set; }
+    private async Task ShelterBookingHandler()
     {
         //AddItem
-        Items = (await Service.GetAllItems()).ToList();
-        Console.WriteLine("Shopping item added");
+        int statusCode = (await Service2.AddItem(TheBooking));
+        Console.WriteLine("Booking item added: status kode : "+statusCode);
     }
     public class TimeSample
   {

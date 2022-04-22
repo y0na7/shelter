@@ -5,28 +5,28 @@ using Shelter.Shared;
 using Shelter.Shared.Models;
 using System.Net;
 
-namespace Shelter.Server.Controllers
+namespace Booking.Server.Controllers
 {
-    [Route("api/shelter")]
+    [Route("api/booking")]
     [ApiController]
-    public class ShelterController : ControllerBase
+    public class BookingController : ControllerBase
     {
-        private readonly IShelterRepository Repository = new ShelterRepositoryMongo();
+        private readonly IShelterRepository Repository2 = new ShelterRepositoryMongo();
 
 
-        public ShelterController(IShelterRepository shelterRepository)
+        public BookingController(IShelterRepository shelterRepository)
         {
-            if (Repository == null && shelterRepository != null)
+            if (Repository2 == null && shelterRepository != null)
             {
-                Repository = shelterRepository;
+                Repository2 = shelterRepository;
                 Console.WriteLine("Repository initialized");
             }
         }
 
         [HttpGet]
-        public IEnumerable<ShelterItem> GetAllItems()
+        public IEnumerable<BookingItem> GetAllItems2()
         {
-            return Repository.GetAllItems();
+            return Repository2.GetAllItems2();
         }
         /*[HttpGet]
         [ActionName("actionname2")]
@@ -35,10 +35,10 @@ namespace Shelter.Server.Controllers
             return Repository.GetAllItems2();
         }*/
 
-        [HttpDelete("{id:int}")]
+       /* [HttpDelete("{id:int}")]
         public StatusCodeResult DeleteItem(int id)
         {
-            Console.WriteLine("Server: Delete item called: id = " +id);
+            Console.WriteLine("Server: Delete item called: id = " + id);
 
             bool deleted = Repository.DeleteItem(id);
             if (deleted)
@@ -53,22 +53,22 @@ namespace Shelter.Server.Controllers
                 int code = (int)HttpStatusCode.NotFound;
                 return new StatusCodeResult(code);
             }
-        }
+        } */
 
         [HttpPost]
         public void AddItem(BookingItem TheBooking)
         {
             Console.WriteLine("Add item called: " + TheBooking.ToString());
-            Repository.AddItem(TheBooking);
+            Repository2.AddItem(TheBooking);
         }
 
 
 
-        [HttpGet("{id:int}")]
-        public ShelterItem FindItem(int id)
+        /*[HttpGet("{id:int}")]
+        public BookingItem FindItem(int id)
         {
             var result = Repository.FindItem(id);
             return result;
-        }
+        }*/
     }
 }

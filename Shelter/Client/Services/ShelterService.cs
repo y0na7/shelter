@@ -16,9 +16,14 @@ namespace Shelter.Client.Services
             var result = await httpClient.GetFromJsonAsync<ShelterItem[]>("api/shelter");
             return result;
         }
-        public async Task<int> AddItem(ShelterItem item)
+        /*public async Task<BookingItem[]?> GetAllItems2()
         {
-            var response = await httpClient.PostAsJsonAsync("api/shelter", item);
+            var result = await httpClient.GetFromJsonAsync<BookingItem[]>("api/shelter");
+            return result;
+        }*/
+        public async Task<int> AddItem(BookingItem TheBooking)
+        {
+            var response = await httpClient.PostAsJsonAsync("api/[controller]/[actionname2]", TheBooking);
             var responseStatusCode = response.StatusCode;
             return (int)responseStatusCode;
         }

@@ -1,13 +1,15 @@
 ﻿using MongoDB.Driver;
 using MongoDB.Bson;
 using Shelter.Shared.Models;
+using System;
 
 namespace Shelter.Server.Models
 {
-    public class ShelterDBContext
+   /* public class BookingDBContext
     {
+
         private readonly IMongoDatabase mongoDatabase;
-        public ShelterDBContext()
+        public BookingDBContext()
         {
             string atlasConnection = "mongodb+srv://Jonas:admin@sheltercluster.gp6j5.mongodb.net/test";
 
@@ -15,22 +17,13 @@ namespace Shelter.Server.Models
 
             mongoDatabase = client.GetDatabase("Shelterdb");
         }
-        public IMongoCollection<ShelterItem> Items
-        {
-            get
-            {
-                return
-                mongoDatabase.GetCollection<ShelterItem>("Items");
-            }
-        }
-
         public IMongoCollection<BookingItem> Booking
         {
             get
             {
                 return
-                mongoDatabase.GetCollection<BookingItem>("Bookings");
+                mongoDatabase.GetCollection<BookingItem>("Booking");
             }
         }
-    }
+    }*/
 }

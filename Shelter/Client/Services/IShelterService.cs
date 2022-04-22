@@ -9,7 +9,7 @@ namespace Shelter.Client.Services
 
        // Task<ShelterItem?> GetItem(int id);
 
-        Task<int> AddItem(ShelterItem item);
+        //Task<int> AddItem(BookingItem TheBooking);
 
        // Task<int> DeleteItem(int id);
         void updateItem(ShelterItem item);

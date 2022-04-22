@@ -8,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IShelterRepository, ShelterRepositoryMongo>();
+//builder.Services.AddScoped<IBookingRepository, BookingRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

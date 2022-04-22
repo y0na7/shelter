@@ -8,13 +8,12 @@ using Shelter.Shared.Models;
 
 namespace Shelter.Server.Models
 {
-    public interface IShelterRepository
+    /*public interface IBookingRepository
     {
-        List<ShelterItem> GetAllItems();
         List<BookingItem> GetAllItems2();
-        ShelterItem FindItem(int id);
-        void AddItem(BookingItem TheBooking);
-        bool DeleteItem(int id);
-        bool UpdateItem(ShelterItem item);
-    }
+        BookingItem FindItem(int id);
+        void AddItem(BookingItem item);
+        //bool DeleteItem(int id);
+        //bool UpdateItem(BookingItem item);
+    }*/
 }

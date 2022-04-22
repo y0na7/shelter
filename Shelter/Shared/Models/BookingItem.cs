@@ -15,15 +15,19 @@ namespace Shelter.Shared.Models
         [BsonRepresentation(BsonType.ObjectId)]
         public string? MongoId { get; set; }
 
-        [BsonElement("properties")]
-        public ShelterProperty property { get; set; }
-
-        [BsonElement]("name")]
+        [BsonElement("name")]
         public string? Name { get; set; }
-        public BookingItem()
-
+        public BookingItem(string name = "a")
         {
+            Name = name;
+            
         }
+        public BookingItem()
+        {
+            
+        }
+
+
 
 
     }
