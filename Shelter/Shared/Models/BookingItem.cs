@@ -16,16 +16,18 @@ namespace Shelter.Shared.Models
         public string? MongoId { get; set; }
 
         [BsonElement("name")]
-        public string? Name { get; set; }
-        public BookingItem(string name = "a")
-        {
-            Name = name;
-            
-        }
+        public string? PersonNavn { get; set; }
+        public DateTime? Dato1 { get; set; }
+        public DateTime? Dato2 { get; set; }
+        public string Shelternavn { get; set; }
         public BookingItem()
         {
             
         }
+       /* public BookingItem()
+        {
+            
+        }*/
 
 
 

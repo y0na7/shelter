@@ -23,48 +23,33 @@
 <div>
     <form action="/Booking">
   <label for="Items">Vælg et Shelter:</label>
-  <select name="shelters" id="items">
+  <select name="shelters" id="items" @onchange="FindShelter">
       @foreach(var item in Items)
-      {
-    <option value="@item.property.Navn">@item.property.Navn</option>
+            {
+                CurrentDropDown = @item.property.Navn;
+                <option value="@item.property.Navn">@item.property.Navn</option>
       }
   </select>
   <br><br>
   
 <div class="wrapper">
   <section class="createevent">
-    <EditForm EditContext="@_editContext" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
-      <DataAnnotationsValidator />
-      <div class="form-group">
-        <p>
-          <label>
-            Startdato:
-          </label>
-          <input id="txtDate" type="date" value=""<?php echo date('Y-m-j'); ?>
-          <ValidationMessage For="@(() => _timeSample.date1)" />
-          <label>
-            Slutdato:
-          </label>
-          <input id="txtDate" type="date" value=""<?php echo date('Y-m-j'); ?>
-          <ValidationMessage For="@(() => _timeSample.date2)" />
-        </p>
-      </div>
+    <EditForm Model=TheBooking>
+        <InputText @bind-Value="TheBooking.PersonNavn"/> 
+        <InputDate @bind-Value="TheBooking.Dato1"/> 
+        <InputDate @bind-Value="TheBooking.Dato2"/> 
     </EditForm>
   </section>
 </div>
  <br><br>
-
-  <input type="submit" value="Submit">
 </form>
 </div>
 
 
-<div>
-<label>
-    Name:
-    <input @bind="TheBooking.Name"/>
-</label>
-<button class="btn btn-primary" @onclick="ShelterBookingHandler"></button>
+
+<br><br>
+<div
+    <button type="button" class="submit1" @onclick="ShelterBookingHandler"> Submit</button>
 </div>
 @code {
 
@@ -86,32 +71,42 @@
     public IBookingService Service2 { get; set; }
     private async Task ShelterBookingHandler()
     {
+        
         //AddItem
         int statusCode = (await Service2.AddItem(TheBooking));
         Console.WriteLine("Booking item added: status kode : "+statusCode);
     }
     public class TimeSample
-  {
-    public DateTime date1 { get; set; }
-    public DateTime date2 { get; set; }
-    public DateTime time { get; set; }
-    public string text { get; set; }
-  };
+    {
+        public DateTime date1 { get; set; }
+        public DateTime date2 { get; set; }
+        //public DateTime time { get; set; }
+        //public string text { get; set; }
+    };
 
-  private EditContext _editContext;
-  private TimeSample _timeSample = new TimeSample();
+    private EditContext _editContext;
+    private TimeSample _timeSample = new TimeSample();
 
-  protected override void OnInitialized()
-  {
-    _editContext = new EditContext(_timeSample);
-  }
+    protected override void OnInitialized()
+    {
+        _editContext = new EditContext(_timeSample);
+    }
 
-  private void HandleValidSubmit()
-  {
-  }
+    protected void HandleInvalidSubmit()
+    {
+    }
+    private ShelterItem shelterItemcurrent = new ShelterItem();
+    private string CurrentDropDown;
 
-  protected void HandleInvalidSubmit()
-  {
-  }
+    public void FindShelter()
+    {Console.WriteLine(TheBooking.PersonNavn);
+        Console.WriteLine(TheBooking.Shelternavn);
+        Console.WriteLine(TheBooking.Dato1);
+        Console.WriteLine(TheBooking.Dato2);
+        TheBooking.Shelternavn = CurrentDropDown;
+
+        
+    }
 
 }
+
