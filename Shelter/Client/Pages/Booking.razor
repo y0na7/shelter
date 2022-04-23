@@ -32,22 +32,25 @@
                 <option value="@item.property.Navn">@item.property.Navn</option>
       }
   </select>
-  <h5>selected shelter: @selectedString</h5>
-
-  <br><br>
+ <br><br />
   
 <div class="wrapper">
   <section class="createevent">
     <EditForm Model=TheBooking>
-        <p>Navn</p>
-        <InputText @bind-Value="TheBooking.PersonNavn"/> 
-        <p>Start Dato &bnsp&bnsp&bnsp&bnsp Slut Dato</p>
+        <p>Navn:</p>
+        <InputText @bind-Value="TheBooking.PersonNavn"/>
+        <br><br/>
+        <p>Email:</p>
+        <InputText @bind-Value="TheBooking.email"/>
+        <br><br/>
+        <p>Startdato: &emsp;&emsp;&emsp; Slutdato:</p>
         <InputDate @bind-Value="TheBooking.Dato1"/> 
         <InputDate @bind-Value="TheBooking.Dato2"/> 
     </EditForm>
   </section>
 </div>
  <br><br>
+<h3>@BookingComplete</h3>
 </form>
 </div>
 
@@ -59,9 +62,9 @@
 </div>
 @code {
 
-
     private List<ShelterItem> Items = new List<ShelterItem>();
     private BookingItem TheBooking = new BookingItem();
+    private string BookingComplete = "";
 
     [Inject]
     //inject shelterservice
@@ -81,6 +84,9 @@
         //AddItem
         int statusCode = (await Service2.AddItem(TheBooking));
         Console.WriteLine("Booking item added: status kode : "+statusCode);
+        _editContext = new EditContext(_timeSample);
+        BookingComplete = "Booking Succesfuld";
+
     }
   
 

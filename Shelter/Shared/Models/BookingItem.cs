@@ -20,6 +20,8 @@ namespace Shelter.Shared.Models
         public DateTime? Dato1 { get; set; }
         public DateTime? Dato2 { get; set; }
         public string Shelternavn { get; set; }
+        public string email { get; set; }
+
         public BookingItem()
         {
             
