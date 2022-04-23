@@ -24,6 +24,7 @@
 <div>
     <form action="/Booking">
   <label for="Items">Vælg et Shelter:</label>
+  <br><br/>
   <select name="shelters" id="items" @onchange="FindShelter">
       @foreach(var item in Items)
             {

@@ -6,7 +6,7 @@
 <div>
             @foreach (var item in BookingListe)
             {
-                <table style="border:1px; border-style:solid; padding: 40px; margin:20px">
+                <table style="border:1px; border-style:solid; margin:20px; width: 45%">
 
 
    
@@ -16,7 +16,7 @@
         <tr><td><p1 style="font-weight:bold; padding: 3px;margin:4px">Shelter:</p1>@item.Shelternavn</td></tr>
         <tr><td> <p1 style="font-weight:bold; padding: 3px; margin:4px">Startdato:</p1>@item.Dato1</td></tr>
         <tr><td> <p1 style="font-weight:bold; padding: 3px;margin:4px">Slutdato:</p1>@item.Dato2</td></tr>
-        <tr><td><p1 style="font-weight:bold; padding: 3px;margin:4px">Bookingnummer:</p1> @item.MongoId</td></tr>
+        <tr><td><p1 style="font-weight:bold; padding: 3px;margin:4px">Bookingid:</p1> @item.MongoId</td></tr>
 
     </table>
             }
