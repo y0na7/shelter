@@ -1,0 +1,35 @@
+﻿@using Shelter.Client.Services;
+@using Shelter.Shared.Models;
+
+@page "/Pedel"
+<h3>Pedel</h3>
+<div>
+            @foreach (var item in BookingListe)
+            {
+                <table>
+                    <tr>
+                <td>@item.PersonNavn</td>
+                <td>@item.Shelternavn</td>
+                <td>@item.Dato1</td>
+                <td>@item.Dato2</td>
+                </tr>
+                </table>
+            }
+        
+</div>
+
+@code {
+    private List<BookingItem> BookingListe = new List<BookingItem>();
+    private BookingItem TheBooking = new BookingItem();
+
+      [Inject]
+    //inject shelterservice
+    public IBookingService Service { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        BookingListe = (await Service.GetAllItems2()).ToList();
+
+    }
+
+}
