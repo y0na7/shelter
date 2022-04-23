@@ -39,7 +39,9 @@
 <div class="wrapper">
   <section class="createevent">
     <EditForm Model=TheBooking>
+        <p>Navn</p>
         <InputText @bind-Value="TheBooking.PersonNavn"/> 
+        <p>Start Dato &bnsp&bnsp&bnsp&bnsp Slut Dato</p>
         <InputDate @bind-Value="TheBooking.Dato1"/> 
         <InputDate @bind-Value="TheBooking.Dato2"/> 
     </EditForm>
@@ -53,7 +55,7 @@
 
 <br><br>
 <div
-    <button type="button" class="submit1" @onclick="ShelterBookingHandler"> Submit</button>
+    <button type="btn-succes" class="submit1" @onclick="ShelterBookingHandler"> Submit</button>
 </div>
 @code {
 
