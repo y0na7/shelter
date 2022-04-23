@@ -6,17 +6,19 @@
 <div>
             @foreach (var item in BookingListe)
             {
-                <table>
-                    <tr>
-                <td>@item.PersonNavn</td>
-                <td>@item.email</td>
-                <td>@item.Shelternavn</td>
-                <td>@item.Dato1</td>
-                <td>@item.Dato2</td>
-                <td>Bookingid: @item.MongoId</td>
+                <table style="border:1px; border-style:solid; padding: 40px; margin:20px">
 
-                </tr>
-                </table>
+
+   
+
+
+        <tr><td><p1 style="font-weight:bold; padding: 3px; margin:4px">Navn:</p1> @item.PersonNavn</td> </tr >
+        <tr><td><p1 style="font-weight:bold; padding: 3px;margin:4px">Shelter:</p1>@item.Shelternavn</td></tr>
+        <tr><td> <p1 style="font-weight:bold; padding: 3px; margin:4px">Startdato:</p1>@item.Dato1</td></tr>
+        <tr><td> <p1 style="font-weight:bold; padding: 3px;margin:4px">Slutdato:</p1>@item.Dato2</td></tr>
+        <tr><td><p1 style="font-weight:bold; padding: 3px;margin:4px">Bookingnummer:</p1> @item.MongoId</td></tr>
+
+    </table>
             }
         
 </div>
