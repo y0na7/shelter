@@ -6,30 +6,15 @@
 
 <h1>Book her</h1>
 
-<!--<div>
-        <ul>
-            @foreach (var item in Items)
-            {
-            <li>
-                @item.property.Navn
-                @item.property.Beskrivelse 
-                @item.property.AntalPladser
-
-            </li>
-        }
-        </ul>
-</div>
--->
 <!--DROPDOWNMENU UNDER-->
 <div>
-    <form action="/Booking">
+    <form>
   <label for="Items">Vælg et Shelter:</label>
   <br><br/>
   <select name="shelters" id="items" @onchange="FindShelter">
       @foreach(var item in Items)
             {
                 
-                //CurrentDropDown = @item.property.Navn;
                 <option value="@item.property.Navn">@item.property.Navn</option>
       }
   </select>
@@ -46,7 +31,7 @@
         <br><br/>
         <p>Startdato: &emsp;&emsp;&emsp; Slutdato:</p>
         <InputDate @bind-Value="TheBooking.Dato1"/> 
-        <InputDate @bind-Value="TheBooking.Dato2"/> 
+        <InputDate @bind-Value="TheBooking.Dato2"/>
     </EditForm>
   </section>
 </div>
@@ -85,14 +70,14 @@
         //AddItem
         int statusCode = (await Service2.AddItem(TheBooking));
         Console.WriteLine("Booking item added: status kode : "+statusCode);
-        _editContext = new EditContext(_timeSample);
+        //_editContext = new EditContext(_timeSample);
         BookingComplete = "Booking Succesfuld";
 
     }
   
 
 
-    public class TimeSample
+    /*public class TimeSample
     {
         public DateTime date1 { get; set; }
         public DateTime date2 { get; set; }
@@ -106,7 +91,7 @@
     protected override void OnInitialized()
     {
         _editContext = new EditContext(_timeSample);
-    }
+    }*/
 
     protected void HandleInvalidSubmit()
     {

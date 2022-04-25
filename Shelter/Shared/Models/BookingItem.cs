@@ -17,8 +17,8 @@ namespace Shelter.Shared.Models
 
         [BsonElement("name")]
         public string? PersonNavn { get; set; }
-        public DateTime? Dato1 { get; set; }
-        public DateTime? Dato2 { get; set; }
+        public DateTime? Dato1 { get; set; } = DateTime.Now.AddDays(1);
+        public DateTime? Dato2 { get; set; } = DateTime.Now.AddDays(1);
         public string Shelternavn { get; set; }
         public string email { get; set; }
 
