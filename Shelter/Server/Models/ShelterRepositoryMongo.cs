@@ -14,7 +14,6 @@ namespace Shelter.Server.Models
        
             //private static readonly List<ShelterItem> Items;
 
-            // private static readonly List<ShoppingItem> Items;
             ShelterDBContext db = new ShelterDBContext();
             public void AddItem(BookingItem TheBooking)
             {

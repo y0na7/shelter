@@ -28,6 +28,12 @@ namespace Booking.Server.Controllers
         {
             return Repository2.GetAllItems2();
         }
+        [HttpPost]
+        public void AddItem(BookingItem TheBooking)
+        {
+            Console.WriteLine("Add item called: " + TheBooking.ToString());
+            Repository2.AddItem(TheBooking);
+        }
         /*[HttpGet]
         [ActionName("actionname2")]
         public IEnumerable<BookingItem> GetAllItems2()
@@ -35,32 +41,25 @@ namespace Booking.Server.Controllers
             return Repository.GetAllItems2();
         }*/
 
-       /* [HttpDelete("{id:int}")]
-        public StatusCodeResult DeleteItem(int id)
-        {
-            Console.WriteLine("Server: Delete item called: id = " + id);
+        /* [HttpDelete("{id:int}")]
+         public StatusCodeResult DeleteItem(int id)
+         {
+             Console.WriteLine("Server: Delete item called: id = " + id);
 
-            bool deleted = Repository.DeleteItem(id);
-            if (deleted)
-            {
-                Console.WriteLine("Server: Item deleted succces");
-                int code = (int)HttpStatusCode.OK;
-                return new StatusCodeResult(code);
-            }
-            else
-            {
-                Console.WriteLine("Server: Item deleted fail - not found");
-                int code = (int)HttpStatusCode.NotFound;
-                return new StatusCodeResult(code);
-            }
-        } */
-
-        [HttpPost]
-        public void AddItem(BookingItem TheBooking)
-        {
-            Console.WriteLine("Add item called: " + TheBooking.ToString());
-            Repository2.AddItem(TheBooking);
-        }
+             bool deleted = Repository.DeleteItem(id);
+             if (deleted)
+             {
+                 Console.WriteLine("Server: Item deleted succces");
+                 int code = (int)HttpStatusCode.OK;
+                 return new StatusCodeResult(code);
+             }
+             else
+             {
+                 Console.WriteLine("Server: Item deleted fail - not found");
+                 int code = (int)HttpStatusCode.NotFound;
+                 return new StatusCodeResult(code);
+             }
+         } */
 
 
 

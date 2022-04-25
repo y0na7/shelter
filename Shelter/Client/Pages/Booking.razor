@@ -70,34 +70,10 @@
         //AddItem
         int statusCode = (await Service2.AddItem(TheBooking));
         Console.WriteLine("Booking item added: status kode : "+statusCode);
-        //_editContext = new EditContext(_timeSample);
         BookingComplete = "Booking Succesfuld";
 
     }
   
-
-
-    /*public class TimeSample
-    {
-        public DateTime date1 { get; set; }
-        public DateTime date2 { get; set; }
-        //public DateTime time { get; set; }
-        //public string text { get; set; }
-    };
-
-    private EditContext _editContext;
-    private TimeSample _timeSample = new TimeSample();
-
-    protected override void OnInitialized()
-    {
-        _editContext = new EditContext(_timeSample);
-    }*/
-
-    protected void HandleInvalidSubmit()
-    {
-    }
-    private ShelterItem shelterItemcurrent = new ShelterItem();
-    private string CurrentDropDown;
     public string selectedString = "";
 
     public void FindShelter(ChangeEventArgs e)

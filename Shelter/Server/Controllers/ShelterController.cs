@@ -35,7 +35,7 @@ namespace Shelter.Server.Controllers
             return Repository.GetAllItems2();
         }*/
 
-        [HttpDelete("{id:int}")]
+        /*[HttpDelete("{id:int}")]
         public StatusCodeResult DeleteItem(int id)
         {
             Console.WriteLine("Server: Delete item called: id = " +id);
@@ -53,22 +53,13 @@ namespace Shelter.Server.Controllers
                 int code = (int)HttpStatusCode.NotFound;
                 return new StatusCodeResult(code);
             }
-        }
+        }*/
 
-        [HttpPost]
-        public void AddItem(BookingItem TheBooking)
-        {
-            Console.WriteLine("Add item called: " + TheBooking.ToString());
-            Repository.AddItem(TheBooking);
-        }
-
-
-
-        [HttpGet("{id:int}")]
+       /*[HttpGet("{id:int}")]
         public ShelterItem FindItem(int id)
         {
             var result = Repository.FindItem(id);
             return result;
-        }
+        }*/
     }
 }
